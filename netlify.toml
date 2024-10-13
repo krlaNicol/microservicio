@@ -1,0 +1,4 @@
+[build]
+  base = "front-angular"
+  publish = "front-angular/dist/front-angular"
+  command = "npm run build"
